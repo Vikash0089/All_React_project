@@ -21,4 +21,19 @@
           "start": "parcel index.html",
           "build": "parcel build index.html"
         }
-## 2. New react
+## 2. 📅 React Calendar App 
+
+    A modern and interactive calendar application built with React that allows users to:
+    - Select dates using a calendar view
+    - Create custom events for selected dates
+    - Update and delete existing events
+    - Highlight dates with events visually
+    - Fully responsive and styled with custom CSS
+
+ 🚀 Features
+    - Built using **React.js**
+    - Uses **react-calendar** for UI calendar view
+    - Dynamic date selection and state management using `useState`
+    - Custom event cards with update and delete functionality
+    - 3D gradient background with smooth text transitions
+    - Mobile-responsive layout
