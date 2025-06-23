@@ -30,10 +30,17 @@
     - Highlight dates with events visually
     - Fully responsive and styled with custom CSS
 
- 🚀 Features
+    🚀 Features
     - Built using **React.js**
     - Uses **react-calendar** for UI calendar view
     - Dynamic date selection and state management using `useState`
     - Custom event cards with update and delete functionality
     - 3D gradient background with smooth text transitions
     - Mobile-responsive layout
+
+    🛠️ Tech Stack
+    - React
+    - React Calendar (`react-calendar`)
+    - Parcel bundler
+    - CSS3
+
