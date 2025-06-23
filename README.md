@@ -21,7 +21,7 @@
           "start": "parcel index.html",
           "build": "parcel build index.html"
         }
-## 2. 📅 React Calendar App 
+## 2. 📅 Calendar App 
 
     A modern and interactive calendar application built with React that allows users to:
     - Select dates using a calendar view
