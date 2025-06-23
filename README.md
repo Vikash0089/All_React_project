@@ -43,4 +43,11 @@
     - React Calendar (`react-calendar`)
     - Parcel bundler
     - CSS3
+    
+     Required Installations
+    - npx create-react-app foldername
+    - npm install react-calendar
+    - npm install memoize
+
+
 
