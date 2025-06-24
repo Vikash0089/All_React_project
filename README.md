@@ -49,5 +49,27 @@
     - npm install react-calendar
     - npm install memoize
 
+    
+## 3. 🖼️ Meme Generator App
+
+    A simple and fun **Meme Generator** built with **ReactJS**. This app uses the [Imgflip API](https://api.imgflip.com/get_memes) to          fetch popular meme templates and allows users to add custom top and bottom text to generate their own memes.
+    
+    🔧 Features
+    - 🎨 Generate random memes
+    - ✍️ Add custom top and bottom text
+    - 🔄 Load new meme images on button click
+    - 💡 Simple, clean, and responsive UI
+
+    🛠️ Tech Stack
+    - **ReactJS** – Frontend Library
+    - **Fetch API** – To retrieve meme data
+    - **CSS** – Styling and layout
+
+    Required Installations
+    - npx create-react-app meme-generator
+    - cd meme-generator
+    - npm start
+
+    
 
 
