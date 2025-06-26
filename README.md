@@ -69,7 +69,33 @@
     - npx create-react-app meme-generator
     - cd meme-generator
     - npm start
+    
+## 📽️ Video to GIF Converter
 
+    A lightweight, browser-based video to GIF converter built with ReactJS and FFmpeg WebAssembly. Upload any short video clip and convert it to a looping GIF directly in your      browser — no server or upload needed!
+
+    🚀 Features
+    - 🎞 Upload and preview your own video
+    - ⚡ Convert video to GIF (first 3 seconds by default)
+    - 🧠 Powered by @ffmpeg/ffmpeg (WebAssembly)
+    - 💾 Download the generated GIF
+    - ✨ Clean and responsive UI with footer and GitHub link
+    
+    🔧 Tech Stack
+    -  ReactJS
+    -  FFmpeg WebAssembly
+    -  FileReader API
+    -  HTML5 Video
+    -  Styled Components / CSS
+
+    
+    Required Installations
+    - npx create-react-app gif-generator
+    - cd gif-generator
+    - npm start
+    - npm install @ffmpeg/ffmpeg @ffmpeg/core styled-components
+
+    
     
 
 
