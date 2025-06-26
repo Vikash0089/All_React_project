@@ -70,7 +70,7 @@
     - cd meme-generator
     - npm start
     
-## 📽️ Video to GIF Converter
+## 4. 📽️ Video to GIF Converter
 
     A lightweight, browser-based video to GIF converter built with ReactJS and FFmpeg WebAssembly. Upload any short video clip and convert it to a looping GIF directly in your      browser — no server or upload needed!
 
