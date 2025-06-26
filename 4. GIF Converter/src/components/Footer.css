@@ -1,1 +1,18 @@
+.footer {
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+    color: #333;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    margin-top: auto;
+    border-top: 1px solid #ccc;
+}
 
+.footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
